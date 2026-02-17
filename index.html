@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Books By Personality</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Discover Books By Your Personality</h1>
+    <p>Your inner world decides your reading universe.</p>
+</header>
+
+<div class="container">
+
+    <h2>Select Your Personality Type</h2>
+
+    <select id="personality">
+        <option value="">-- Choose --</option>
+        <option value="intellectual">Intellectual / Analytical</option>
+        <option value="dreamer">Dreamer / Creative</option>
+        <option value="leader">Leader / Ambitious</option>
+        <option value="romantic">Romantic / Emotional</option>
+        <option value="adventurer">Adventurer / Thrill Seeker</option>
+        <option value="spiritual">Spiritual / Deep Thinker</option>
+        <option value="realist">Practical / Realist</option>
+        <option value="curious">Curious / Explorer</option>
+    </select>
+
+    <button onclick="recommend()">Show Recommendations</button>
+
+    <div id="result"></div>
+
+</div>
+
+<footer>
+    © 2026 Personality Library | Crafted with Thought & Taste
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
