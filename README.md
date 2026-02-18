@@ -106,7 +106,6 @@ This project demonstrates:
 - Practical debugging skills
 - Design + functionality balance
 
-Perfect for beginner-to-intermediate frontend portfolio.
 
 ---
 
