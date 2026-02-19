@@ -45,7 +45,7 @@ No frameworks. No libraries. Pure frontend fundamentals.
 ├── README.md
 
 
-Everything is contained in a single HTML file for simplicity and learning purposes.
+
 
 ---
 
