@@ -90,7 +90,6 @@ This project helps understand:
 - Add animated transitions
 - Add book cover images
 - Convert dropdown into personality quiz
-- Add dark/light mode toggle
 - Connect to real book API
 - Store user preferences using localStorage
 
