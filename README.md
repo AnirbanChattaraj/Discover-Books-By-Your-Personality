@@ -38,15 +38,6 @@ No frameworks. No libraries. Pure frontend fundamentals.
 
 ---
 
-## 📂 Project Structure
-
-📁 personality-book-app
-├── index.html
-├── README.md
-
-
-
-
 ---
 
 ## 🚀 How It Works
